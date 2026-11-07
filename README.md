@@ -27,7 +27,7 @@ Become a professional penetration tester.
 - Burp Suite
 
 ## Practical Labs
-Hack The Box - In Progress
+- **Hack The Box Starting Point — Meow:** Completed. Root flag verified on the [Vishal34 profile](https://app.hackthebox.com/users/1374616).
 
 ## Projects
 More projects coming as practical skills develop.
